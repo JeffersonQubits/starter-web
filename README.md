@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work together.
+This repository is for showing how Git and GitHub work together. Adding a line for rebasing example.
 
 ## Purpose
 
